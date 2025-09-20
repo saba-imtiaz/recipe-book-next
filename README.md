@@ -57,10 +57,3 @@ npm run dev
 **Saba Imtiaz** – [GitHub Profile](https://github.com/saba-imtiaz)
 
 
-
----
-
-If you want, I can also **draft a shorter “catchy one-line tagline” for your README top** that grabs attention instantly on GitHub.  
-
-Do you want me to do that?
-```

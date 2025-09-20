@@ -30,7 +30,7 @@ Key highlights:
 
 1. **Clone the repository**:
 
-git clone https://github.com/saba-imtiaz/recipe-book-nextjs.git
+git clone https://github.com/saba-imtiaz/recipe-book-next.git
 cd recipe-book-nextjs
 
 

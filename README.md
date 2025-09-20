@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# 🍲 Recipe Book App (Next.js)
 
-First, run the development server:
+A **modern Recipe Book application** built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
+Fetches recipes from the **MealDB API** and allows users to **browse, search, and save favorites locally**.
 
-```bash
+## 📖 Description
+
+This project is a **frontend-focused recipe app** using **Next.js**.  
+Users can explore thousands of meal recipes fetched from the **MealDB API**, view details, and save favorites using **LocalStorage**.  
+
+Key highlights:  
+- Fully responsive UI with **Tailwind CSS**  
+- Type-safe components with **TypeScript**  
+- Persistent favorites stored in **LocalStorage**  
+- Server-side rendering (SSR) and static site generation (SSG) with Next.js  
+- Clean, modular, and maintainable architecture  
+
+## ⚡ Features
+
+- Browse recipes by category or search term  
+- View detailed recipe instructions and ingredients  
+- Save favorite recipes locally in the browser  
+- Responsive layout for mobile, tablet, and desktop  
+- Tailwind-powered modern UI  
+- Optimized performance with **Next.js SSR & SSG**
+
+
+## 🚀 Installation & Running Locally
+
+1. **Clone the repository**:
+
+git clone https://github.com/saba-imtiaz/recipe-book-nextjs.git
+cd recipe-book-nextjs
+
+
+2. **Install dependencies**:
+
+npm install
+
+3. **Run the development server**:
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+## 🛠 Tech Stack
+
+* **Next.js 13** – SSR & SSG
+* **React.js** – Frontend components
+* **TypeScript** – Type safety
+* **Tailwind CSS** – Utility-first styling
+* **MealDB API** – Recipe data
+* **LocalStorage** – Persist user favorites
+
+
+## 👨‍💻 Author
+
+**Saba Imtiaz** – [GitHub Profile](https://github.com/saba-imtiaz)
+
+
+
+---
+
+If you want, I can also **draft a shorter “catchy one-line tagline” for your README top** that grabs attention instantly on GitHub.  
+
+Do you want me to do that?
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
